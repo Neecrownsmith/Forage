@@ -14,7 +14,7 @@ Welcome to my repository documenting the BCG Data Science Virtual Internship Pro
 
 The BCG Data Science Virtual Internship Program comprises four modules that cover various aspects of data science and analytics. Each module involves real-world tasks and problem-solving scenarios.
 
-## [Task 1 - Business Understanding & Hypothesis Framing](./Task_1_Business_Understanding_and_Hypothesis_Framing)
+## [Task 1 - Business Understanding & Hypothesis Framing](./Task 1 - Business Understanding & Hypothesis Framing)
 
 This section provides insights into understanding the business context, formulating hypotheses, and communicating findings through an email to the Associate Director.
 
