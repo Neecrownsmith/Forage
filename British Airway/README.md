@@ -4,7 +4,7 @@
 
 This project comprises two tasks focused on gaining insights from airline-related data. In Task 1, we perform web scraping to collect reviews about the airline from the Skytrax website. The collected data undergoes analysis, including data cleaning and exploration, to extract meaningful insights. Task 2 revolves around predicting customer buying behavior using customer booking data. The emphasis is on data manipulation, model construction, and thorough evaluation.
 
-## [Task 1: Web Scraping for Company Insights](./Task 1 - Web Scraping for Company Insights)
+## [Task 1: Web Scraping for Company Insights](/Task 1 - Web Scraping for Company Insights)
 
 1. **Web Scraping:**
    - Utilize the provided Jupyter Notebook to collect review data from the Skytrax website.
