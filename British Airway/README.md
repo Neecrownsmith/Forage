@@ -4,7 +4,7 @@
 
 This project comprises two tasks focused on gaining insights from airline-related data. In Task 1, we perform web scraping to collect reviews about the airline from the Skytrax website. The collected data undergoes analysis, including data cleaning and exploration, to extract meaningful insights. Task 2 revolves around predicting customer buying behavior using customer booking data. The emphasis is on data manipulation, model construction, and thorough evaluation.
 
-## [Task 1: Web Scraping for Company Insights](/Task 1 - Web Scraping for Company Insights)
+## [Task 1: Web Scraping for Company Insights](https://github.com/Neecrownsmith/Forage/tree/main/British%20Airway/Task%201%20-%20Web%20Scraping%20to%20Gain%20Company%20Insights)
 
 1. **Web Scraping:**
    - Utilize the provided Jupyter Notebook to collect review data from the Skytrax website.
@@ -19,7 +19,7 @@ This project comprises two tasks focused on gaining insights from airline-relate
    - Include visualizations and metrics for clear and concise presentation.
 
 
-## [Task 2: Predicting Customer Buying Behaviour](./Task 2: Predicting Customer Buying Behaviour])
+## [Task 2: Predicting Customer Buying Behaviour](https://github.com/Neecrownsmith/Forage/tree/main/British%20Airway/Task%202%20-%20Predicting%20Customer%20Buying%20Behaviour)
 
 1. **Data Manipulation and Preparation:**
    - Clean and preprocess the provided customer booking data.
